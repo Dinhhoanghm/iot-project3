@@ -1,0 +1,33 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/iot_db}
+    username: ${SPRING_DATASOURCE_USERNAME:iot_user}
+    password: ${SPRING_DATASOURCE_PASSWORD:iot_password}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+mqtt:
+  broker:
+    url: ${MQTT_BROKER_URL:tcp://localhost:1883}
+    client-id: iot-consumer-${random.uuid}
+    username: ${MQTT_USERNAME:}
+    password: ${MQTT_PASSWORD:}
+  topics:
+    sensors: iot/devices/+/sensors
+    status: iot/devices/+/status
+
+logging:
+  level:
+    com.iot.consumer: DEBUG
+    org.springframework.integration.mqtt: INFO

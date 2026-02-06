@@ -1,0 +1,76 @@
+1770112702: mosquitto version 2.0.22 starting
+1770112702: Config loaded from /mosquitto/config/mosquitto.conf.
+1770112702: Opening ipv4 listen socket on port 1883.
+1770112702: Opening ipv6 listen socket on port 1883.
+1770112702: Opening websockets listen socket on port 9001.
+1770112702: mosquitto version 2.0.22 running
+1770112713: New connection from 172.22.0.4:47446 on port 1883.
+1770112713: New client connected from 172.22.0.4:47446 as iot-consumer-363ff250-c226-4d06-86b1-c8980c6d9831 (p2, c1, k60).
+1770114503: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770116212: New connection from 192.168.1.91:52070 on port 1883.
+1770116212: New connection from 192.168.1.91:54052 on port 1883.
+1770116212: Client <unknown> disconnected due to protocol error.
+1770116213: Client <unknown> disconnected due to protocol error.
+1770116213: New connection from 192.168.1.91:59803 on port 1883.
+1770116213: Client <unknown> disconnected due to protocol error.
+1770116219: New connection from 192.168.1.91:64984 on port 1883.
+1770116219: Client <unknown> disconnected due to protocol error.
+1770116219: New connection from 192.168.1.91:54713 on port 1883.
+1770116287: Client <unknown> closed its connection.
+1770116304: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770116379: New connection from 192.168.1.91:65070 on port 1883.
+1770116379: Client <unknown> disconnected due to protocol error.
+1770116379: New connection from 192.168.1.91:64455 on port 1883.
+1770116381: Client <unknown> disconnected due to protocol error.
+1770116381: New connection from 192.168.1.91:62856 on port 1883.
+1770116381: Client <unknown> disconnected due to protocol error.
+1770116382: New connection from 192.168.1.91:51447 on port 1883.
+1770116382: New connection from 192.168.1.91:55232 on port 1883.
+1770116382: Client <unknown> disconnected due to protocol error.
+1770116382: Client <unknown> disconnected due to protocol error.
+1770116382: New connection from 192.168.1.91:59381 on port 1883.
+1770116382: Client <unknown> disconnected due to protocol error.
+1770116383: New connection from 192.168.1.91:51815 on port 1883.
+1770116383: Client <unknown> disconnected due to protocol error.
+1770116383: New connection from 192.168.1.91:57792 on port 1883.
+1770116384: Client <unknown> disconnected due to protocol error.
+1770116384: New connection from 192.168.1.91:59045 on port 1883.
+1770116384: Client <unknown> disconnected due to protocol error.
+1770116384: New connection from 192.168.1.91:49678 on port 1883.
+1770116384: Client <unknown> disconnected due to protocol error.
+1770116384: New connection from 192.168.1.91:59240 on port 1883.
+1770116384: New connection from 192.168.1.91:57810 on port 1883.
+1770116384: Client <unknown> disconnected due to protocol error.
+1770116385: Client <unknown> disconnected due to protocol error.
+1770116385: New connection from 192.168.1.91:62330 on port 1883.
+1770116385: Client <unknown> disconnected due to protocol error.
+1770116390: New connection from 192.168.1.91:56361 on port 1883.
+1770116390: Client <unknown> disconnected due to protocol error.
+1770116390: New connection from 192.168.1.91:63321 on port 1883.
+1770116420: Client <unknown> disconnected due to protocol error.
+1770116420: New connection from 192.168.1.91:64160 on port 1883.
+1770116420: Client <unknown> disconnected due to protocol error.
+1770116431: New connection from 172.22.0.1:43944 on port 1883.
+1770116431: Client <unknown> disconnected due to protocol error.
+1770116431: New connection from 172.22.0.1:43948 on port 1883.
+1770116431: New connection from 172.22.0.1:43950 on port 1883.
+1770116432: Client <unknown> disconnected due to protocol error.
+1770116432: Client <unknown> disconnected due to protocol error.
+1770116432: New connection from 172.22.0.1:43966 on port 1883.
+1770116432: Client <unknown> disconnected due to protocol error.
+1770116525: New connection from 172.22.0.1:57758 on port 1883.
+1770116525: New client connected from 172.22.0.1:57758 as auto-BA4D9E42-8D1D-4CBB-79A8-9F117846EAFB (p2, c1, k60).
+1770116525: Client auto-BA4D9E42-8D1D-4CBB-79A8-9F117846EAFB disconnected.
+1770118105: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770118635: mosquitto version 2.0.22 terminating
+1770118635: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770118636: mosquitto version 2.0.22 starting
+1770118636: Config loaded from /mosquitto/config/mosquitto.conf.
+1770118636: Opening ipv4 listen socket on port 1883.
+1770118636: Opening ipv6 listen socket on port 1883.
+1770118636: Opening websockets listen socket on port 9001.
+1770118636: mosquitto version 2.0.22 running
+1770118636: New connection from 172.22.0.4:47540 on port 1883.
+1770118636: New client connected from 172.22.0.4:47540 as iot-consumer-363ff250-c226-4d06-86b1-c8980c6d9831 (p2, c1, k60).
+1770118951: mosquitto version 2.0.22 terminating
+1770118951: Saving in-memory database to /mosquitto/data//mosquitto.db.
